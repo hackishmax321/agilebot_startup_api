@@ -3,6 +3,7 @@ flask-sqlalchemy
 flask-migrate
 flask-jwt-extended
 python-dotenv
+uvicorn
 pymongo
 dnspython
 pyjwt
