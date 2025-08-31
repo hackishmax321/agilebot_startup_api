@@ -6,6 +6,7 @@ flask-jwt-extended
 python-dotenv
 uvicorn
 pymongo
+chromadb
 dnspython
 pyjwt
 bcrypt
