@@ -10,3 +10,7 @@ dnspython
 pyjwt
 bcrypt
 certifi
+langchain
+langchain_core
+langchain-community
+langchain_openai
